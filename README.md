@@ -30,7 +30,7 @@ Wir konnten mit der Hilfe von Herrn Buhl unser Problem der letzten Stunde kläre
 
 Wir haben uns ein wenig in Snap! eingearbeitet und angefangen uns zu überlegen, wie wir unser Projekt gestalten könnten.
 
- ![Screenshot 18 08 (2)](https://user-images.githubusercontent.com/69623451/90876842-7a584100-e3a3-11ea-8808-3bcb88cd5bcc.PNG)
+ ![Screenshot 18 08 (2)](https://user-images.githubusercontent.com/69623451/90876842-7a584100-e3a3-11ea-8808-3bcb88cd5bcc.PNG "Versuch 1")
  ![Screenshot 18 08](https://user-images.githubusercontent.com/69623451/90877059-c2776380-e3a3-11ea-99c3-af1ae1c9d894.PNG)
 
  
