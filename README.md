@@ -30,7 +30,7 @@ Wir konnten mit der Hilfe von Herrn Buhl unser Problem der letzten Stunde kläre
 
 Wir haben uns ein wenig in Snap! eingearbeitet und angefangen uns zu überlegen, wie wir unser Projekt gestalten könnten.
 
- ![bsp Snap!](Screenshot 18.08.png "Screenshot von Snap!")
+ ![Screenshot 18 08 (2)](https://user-images.githubusercontent.com/69623451/90876842-7a584100-e3a3-11ea-8808-3bcb88cd5bcc.PNG)
  
  ### <a name="einf"></a> 20.08.2020
 Wir haben versucht, einen Screenshot in unser Readme einzufügen, sind daran jedoch erstmal gescheitert. Des Weiteren haben wir Screenshots hochgeladen und wollten diese in ein Verzeichnis einfügen, welches wir versucht haben zu erstellen.
