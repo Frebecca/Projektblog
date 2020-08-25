@@ -14,6 +14,10 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [20.08.2020](#einf)
 
+[21.08.2020](#einf)
+
+[25.08.2020](#einf)
+
 ### Vorwort<a name="einf"></a> 
 
 
@@ -36,4 +40,9 @@ Wir haben uns ein wenig in Snap! eingearbeitet und angefangen uns zu überlegen,
  
  ### <a name="einf"></a> 20.08.2020
 Wir haben versucht, einen Screenshot in unser Readme einzufügen, sind daran jedoch erstmal gescheitert. Des Weiteren haben wir Screenshots hochgeladen und wollten diese in ein Verzeichnis einfügen, welches wir versucht haben zu erstellen.
+
+### <a name="einf"></a> 21.08.2020
+Wir haben die Screenshots eingefügt und uns mögliche Projekte überlegt, die wir mit Snap machen könnten. Zum einen haben wir in Erwägung gezogen, ein Labyrinth zu erstellen, welches sich selbst zeichnet und sich dann selber löst. Zum anderen kam uns die Idee, eine sich in sich selber drehende und die Farbe ändernde Spirale zu programmieren. Inspiration dazu fanden wir im Internet.
+
+### <a name="einf"></a> 25.08.2020
 
