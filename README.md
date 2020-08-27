@@ -50,6 +50,8 @@ Wir haben die Screenshots eingefügt und uns mögliche Projekte überlegt, die w
 
 In dieser Stunde haben wir uns genauer überlegt, wie unser Projekt aussehen soll. Wir haben angefangen, eine Spirale zu programmieren.
 
-![Spirale 25.08.2020](https://github.com/Frebecca/Projektblog/blob/master/Spirale%2025.08.2020.PNG)
+![Spirale 25.08.2020](https://github.com/Frebecca/Projektblog/blob/master/Spirale%2025.08.2020.PNG "1.Versuch Spirale")
+
+![Fehlversuch Spirale](https://github.com/Frebecca/Projektblog/blob/master/Fehlversuch%20Spirale.PNG "Fehlversuch")
 
 ### <a name="einf"></a> 27.08.2020
