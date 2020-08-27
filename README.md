@@ -18,6 +18,8 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [25.08.2020](#einf)
 
+[27.08.2020] (#einf)
+
 ### Vorwort<a name="einf"></a> 
 
 
@@ -46,3 +48,7 @@ Wir haben die Screenshots eingefügt und uns mögliche Projekte überlegt, die w
 
 ### <a name="einf"></a> 25.08.2020
 
+In dieser Stunde haben wir uns genauer überlegt, wie unser Projekt aussehen soll. Wir haben angefangen, eine Spirale zu programmieren.
+
+
+### <a name="einf"></a> 27.08.2020
