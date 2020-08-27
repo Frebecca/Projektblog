@@ -53,6 +53,7 @@ In dieser Stunde haben wir uns genauer überlegt, wie unser Projekt aussehen sol
 ![Spirale 25.08.2020](https://github.com/Frebecca/Projektblog/blob/master/Spirale%2025.08.2020.PNG "1.Versuch Spirale")
 
 Unser Ziel ist es, eine Spirale zu programmieren, die sich in sich selbst dreht und die Farbe ändert. 
+Als wir 
 
 ![Fehlversuch Spirale](https://github.com/Frebecca/Projektblog/blob/master/Fehlversuch%20Spirale.PNG "Fehlversuch")
 
