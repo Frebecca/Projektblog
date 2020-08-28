@@ -22,6 +22,8 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [28.08.2020](einf#)
 
+[02.09.2020](einf#)
+
 ### Vorwort<a name="einf"></a> 
 
 
@@ -42,7 +44,7 @@ Wir haben uns ein wenig in Snap! eingearbeitet und angefangen uns zu überlegen,
  ![Screenshot 18 08](https://user-images.githubusercontent.com/69623451/90877059-c2776380-e3a3-11ea-99c3-af1ae1c9d894.PNG "Zweiter Versuch eines Kreises")
 
  
- ### <a name="einf"></a> 20.08.2020
+### <a name="einf"></a> 20.08.2020
 Wir haben versucht, einen Screenshot in unser Readme einzufügen, sind daran jedoch erstmal gescheitert. Des Weiteren haben wir Screenshots hochgeladen und wollten diese in ein Verzeichnis einfügen, welches wir versucht haben zu erstellen.
 
 ### <a name="einf"></a> 21.08.2020
@@ -66,3 +68,6 @@ In der heutigen Stunde haben wir unsere Spirale weiter programmiert. Der Fokus l
 ### <a name="einf"></a> 28.08.2020
 
 Auch heute haben wir unsere Spirale weiterentwickelt. Wir haben uns ein wenig von der typischen runden Form differenziert und auch Kreisbewegungen mit geraden Linien programmiert. Weiterhin sind wir aber bei einem Aufbau des Musters von der Mitte hin zum Rand, mit einer sich ständig ändernden Farbe. Ab einem gewissen Punkt werden wir die sich fortlaufend aufbauende Spirale unterbrechen und ein neues Muster starten.
+
+### <a name="einf"></a> 02.09.2020
+
