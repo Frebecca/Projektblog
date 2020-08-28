@@ -20,6 +20,8 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [27.08.2020](#einf)
 
+[28.08.2020](einf#)
+
 ### Vorwort<a name="einf"></a> 
 
 
@@ -53,8 +55,14 @@ In dieser Stunde haben wir uns genauer überlegt, wie unser Projekt aussehen sol
 ![Spirale 25.08.2020](https://github.com/Frebecca/Projektblog/blob/master/Spirale%2025.08.2020.PNG "1.Versuch Spirale")
 
 Unser Ziel ist es, eine Spirale zu programmieren, die sich in sich selbst dreht und die Farbe ändert. 
-Als wir 
+Als wir versuchen wollten, dei Richtung der Spirale zu ändern, sobald sie den Rand berührt, ist ein Muster entstandne,welches wir vorher nicht vermtet hätten. Somit war dieser Versuch ein Fehlversuch.
 
 ![Fehlversuch Spirale](https://github.com/Frebecca/Projektblog/blob/master/Fehlversuch%20Spirale.PNG "Fehlversuch")
 
 ### <a name="einf"></a> 27.08.2020
+
+In der heutigen Stunde haben wir unsere Spirale weiter programmiert. Der Fokus lag hierbei vor allem auf der Änderung der Farbe, der Größe und Form der Spirale und dem Verhalten des Musters, sobald der Rand beziehungsweise eine gewissen Größe erreicht wurde´.
+
+### <a name="einf"></a> 28.08.2020
+
+Auch heute haben wir unsere Spirale weiterentwickelt. Wir haben uns ein wenig von der typischen runden Form differenziert und auch Kreisbewegungen mit geraden Linien programmiert. Weiterhin sind wir aber bei einem Aufbau des Musters von der Mitte hin zum Rand, mit einer sich ständig ändernden Farbe. Ab einem gewissen Punkt werden wir die sich fortlaufend aufbauende Spirale unterbrechen und ein neues Muster starten.
