@@ -52,7 +52,7 @@ Wir haben die Screenshots eingefügt und uns mögliche Projekte überlegt, die w
 
 In dieser Stunde haben wir uns genauer überlegt, wie unser Projekt aussehen soll. Wir haben angefangen, eine Spirale zu programmieren.
 
-![Spirale 25.08.2020](https://github.com/Frebecca/Projektblog/blob/master/Spirale%2025.08.2020.PNG "1.Versuch einer Spirale")
+![Spirale 25.08.2020](https://github.com/Frebecca/Projektblog/blob/master/Spirale%2025.08.2020.PNG "Erster Versuch einer Spirale")
 
 Unser Ziel ist es, eine Spirale zu programmieren, die sich in sich selbst dreht und die Farbe ändert. 
 Als wir versuchen wollten, dei Richtung der Spirale zu ändern, sobald sie den Rand berührt, ist ein Muster entstandne,welches wir vorher nicht vermtet hätten. Somit war dieser Versuch ein Fehlversuch.
