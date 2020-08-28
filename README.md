@@ -38,8 +38,8 @@ Wir konnten mit der Hilfe von Herrn Buhl unser Problem der letzten Stunde kläre
 
 Wir haben uns ein wenig in Snap! eingearbeitet und angefangen uns zu überlegen, wie wir unser Projekt gestalten könnten.
 
- ![Screenshot 18 08 (2)](https://user-images.githubusercontent.com/69623451/90876842-7a584100-e3a3-11ea-8808-3bcb88cd5bcc.PNG "Versuch 1")
- ![Screenshot 18 08](https://user-images.githubusercontent.com/69623451/90877059-c2776380-e3a3-11ea-99c3-af1ae1c9d894.PNG)
+ ![Screenshot 18 08 (2)](https://user-images.githubusercontent.com/69623451/90876842-7a584100-e3a3-11ea-8808-3bcb88cd5bcc.PNG "Erster Versuch eines Kreises")
+ ![Screenshot 18 08](https://user-images.githubusercontent.com/69623451/90877059-c2776380-e3a3-11ea-99c3-af1ae1c9d894.PNG "Zweiter Versuch eines Kreises")
 
  
  ### <a name="einf"></a> 20.08.2020
@@ -52,16 +52,16 @@ Wir haben die Screenshots eingefügt und uns mögliche Projekte überlegt, die w
 
 In dieser Stunde haben wir uns genauer überlegt, wie unser Projekt aussehen soll. Wir haben angefangen, eine Spirale zu programmieren.
 
-![Spirale 25.08.2020](https://github.com/Frebecca/Projektblog/blob/master/Spirale%2025.08.2020.PNG "1.Versuch Spirale")
+![Spirale 25.08.2020](https://github.com/Frebecca/Projektblog/blob/master/Spirale%2025.08.2020.PNG "1.Versuch einer Spirale")
 
 Unser Ziel ist es, eine Spirale zu programmieren, die sich in sich selbst dreht und die Farbe ändert. 
 Als wir versuchen wollten, dei Richtung der Spirale zu ändern, sobald sie den Rand berührt, ist ein Muster entstandne,welches wir vorher nicht vermtet hätten. Somit war dieser Versuch ein Fehlversuch.
 
-![Fehlversuch Spirale](https://github.com/Frebecca/Projektblog/blob/master/Fehlversuch%20Spirale.PNG "Fehlversuch")
+![Fehlversuch Spirale](https://github.com/Frebecca/Projektblog/blob/master/Fehlversuch%20Spirale.PNG "Fehlversuch der Spirale")
 
 ### <a name="einf"></a> 27.08.2020
 
-In der heutigen Stunde haben wir unsere Spirale weiter programmiert. Der Fokus lag hierbei vor allem auf der Änderung der Farbe, der Größe und Form der Spirale und dem Verhalten des Musters, sobald der Rand beziehungsweise eine gewissen Größe erreicht wurde´.
+In der heutigen Stunde haben wir unsere Spirale weiter programmiert. Der Fokus lag hierbei vor allem auf der Änderung der Farbe, der Größe und Form der Spirale und dem Verhalten des Musters, sobald der Rand beziehungsweise eine gewissen Größe erreicht wurde.
 
 ### <a name="einf"></a> 28.08.2020
 
