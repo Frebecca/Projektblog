@@ -22,7 +22,9 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [28.08.2020](einf#)
 
-[02.09.2020](einf#)
+[01.09.2020](einf#)
+
+[03.09.2020](einf#)
 
 ### Vorwort<a name="einf"></a> 
 
@@ -69,5 +71,11 @@ In der heutigen Stunde haben wir unsere Spirale weiter programmiert. Der Fokus l
 
 Auch heute haben wir unsere Spirale weiterentwickelt. Wir haben uns ein wenig von der typischen runden Form differenziert und auch Kreisbewegungen mit geraden Linien programmiert. Weiterhin sind wir aber bei einem Aufbau des Musters von der Mitte hin zum Rand, mit einer sich ständig ändernden Farbe. Ab einem gewissen Punkt werden wir die sich fortlaufend aufbauende Spirale unterbrechen und ein neues Muster starten.
 
-### <a name="einf"></a> 02.09.2020
+### <a name="einf"></a> 01.09.2020
 
+Heute haben wir ein neues Projekt angefangen. Zu Beginn der Informatikstunden hatten wir zwei Ideen im Kopf und haben uns zunächst auf die der Spirale konzentriert. Nun möchten wir unsere zweite Idee, ein Labyrinth, programmieren.
+Am Anfang haben wir uns eine Skizze des Labytrinths aufgezeichnet und dann damit angefangen, die Struktur des Labyrinths auf Snap! zu zeichnen.
+
+### <a name="einf"></a> 03.09.2020
+
+Heute fahren wir damit fort, das Labyrinth zu programmieren. 
