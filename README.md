@@ -67,9 +67,14 @@ Als wir versuchen wollten, dei Richtung der Spirale zu ändern, sobald sie den R
 
 In der heutigen Stunde haben wir unsere Spirale weiter programmiert. Der Fokus lag hierbei vor allem auf der Änderung der Farbe, der Größe und Form der Spirale und dem Verhalten des Musters, sobald der Rand beziehungsweise eine gewissen Größe erreicht wurde.
 
+![2. Versuch Spirale](https://github.com/Frebecca/Projektblog/blob/master/2.%20Versuch%20Spirale.PNG "Versuch einer Spirale")
+![3. Versuch](https://github.com/Frebecca/Projektblog/blob/master/3.%20Versuch.PNG "Weiterer Versuch einer Spirale")
+
 ### <a name="einf"></a> 28.08.2020
 
 Auch heute haben wir unsere Spirale weiterentwickelt. Wir haben uns ein wenig von der typischen runden Form differenziert und auch Kreisbewegungen mit geraden Linien programmiert. Weiterhin sind wir aber bei einem Aufbau des Musters von der Mitte hin zum Rand, mit einer sich ständig ändernden Farbe. Ab einem gewissen Punkt werden wir die sich fortlaufend aufbauende Spirale unterbrechen und ein neues Muster starten.
+
+![Regenbogen](https://github.com/Frebecca/Projektblog/blob/master/Regenbogen.PNG "Regenbogenspirale")
 
 ### <a name="einf"></a> 01.09.2020
 
