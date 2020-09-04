@@ -26,6 +26,8 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [03.09.2020](einf#)
 
+[04.09.2020](einf#)
+
 ### Vorwort<a name="einf"></a> 
 
 
@@ -83,4 +85,9 @@ Am Anfang haben wir uns eine Skizze des Labytrinths aufgezeichnet und dann damit
 
 ### <a name="einf"></a> 03.09.2020
 
-Heute fahren wir damit fort, das Labyrinth zu programmieren. 
+Heute fahren wir damit fort, das Labyrinth zu programmieren. Wir haben uns zudem überlegt, wie wir das Labyrinth am geschicktesten programmieren könnten und mehrere Varianten ausprobiert.
+
+### <a name="einf"></a> 04.09.2020
+
+Heute haben wir das Labyrinth fertiggestellt, in der nächsten Stunde müssen wir nur noch ein paar kleine Optimierungen vornehmen. 
+BILD EINFÜGEN
