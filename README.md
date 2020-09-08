@@ -91,3 +91,5 @@ Heute fahren wir damit fort, das Labyrinth zu programmieren. Wir haben uns zudem
 
 Heute haben wir das Labyrinth fertiggestellt, in der nächsten Stunde müssen wir nur noch ein paar kleine Optimierungen vornehmen. 
 BILD EINFÜGEN
+
+### <a name="einf"></a> 08.09.2020
