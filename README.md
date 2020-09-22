@@ -102,3 +102,5 @@ Die Grundstruktur des Labyrinths ist jetzt fertiggestellt worden. Die letzten Ä
 BILD LABYRINTH EINFÜGEN
 
 ### <a name="einf"></a> 22.09.2020
+
+In der heutigen Stunde haben wir die Sprite, die bislang noch die Form des Mauszeigers hatte, in eine Spielfigur bzw. einen roten Punkt geändert. Des Weiteren haben wir uns weiterhin mit den einzelnen Bewegungsabläufen bei Betätigung der verschiedenen Pfeiltasten beschäftigt.
