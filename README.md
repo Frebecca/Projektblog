@@ -32,6 +32,8 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [22.09.2020](#einf)
 
+[24.09.2020](#einf)
+
 ### Vorwort<a name="einf"></a> 
 
 
@@ -104,3 +106,7 @@ Die Grundstruktur des Labyrinths ist jetzt fertiggestellt worden. Die letzten Ä
 ### <a name="einf"></a> 22.09.2020
 
 In der heutigen Stunde haben wir die Sprite, die bislang noch die Form des Mauszeigers hatte, in eine Spielfigur bzw. einen roten Punkt geändert. Des Weiteren haben wir uns weiterhin mit den einzelnen Bewegungsabläufen bei Betätigung der verschiedenen Pfeiltasten beschäftigt.
+
+### <a name="einf"></a> 24.09.2020
+
+
