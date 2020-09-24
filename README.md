@@ -110,7 +110,7 @@ In der heutigen Stunde haben wir die Sprite, die bislang noch die Form des Mausz
 ### <a name="einf"></a> 24.09.2020
 
 Heute konnten wir die Bewegung der Sprite so programmieren, dass sie sich bei Betätigung der einzelnen Pfeiltasten nur in die jeweilige Richtung bewegt und nicht noch in einer zweiten Ebene. Um dies möglich zu machen, haben wir den Befehl "Wenn Taste Pfeil nach x gedrückt" mit dem dazugehörigen Befehl "Zeige Richtung x" und "Gehe x Schritte" kombiniert. 
-BILD EINFÜGEN
+![Tastenkombination](https://github.com/Frebecca/Projektblog/blob/master/Bewegung%20Code.PNG)
 
 Im Moment sind wir damit beschäftigt, die Bewegung der Sprite so zu programmieren, dass sie sich nicht über die einzelne Außen- und Innenkanten des Labyrinths hinweg bewegen kann. Dies ist wichtig, denn ansonsten ist es später nicht möglich, die Spielfigur gezielt durch das Labyrinth zu bewegen. 
 Wir haben schon einige Befehle ausprobiert - jedoch erfolglos. Darunter befanden sich zum einen der Befehl "Berühre Malspuren", "Berühre Labyrinth" und "Berühre Kante". Auch wenn die Sprite die Farbe des Labyrinths berührt, kann sie sich über diese Linien hinweg bewegen.
