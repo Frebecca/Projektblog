@@ -98,11 +98,13 @@ Heute fahren wir damit fort, das Labyrinth zu programmieren. Wir haben uns zudem
 ### <a name="einf"></a> 04.09.2020
 
 Heute haben wir das Labyrinth fertiggestellt, in der nächsten Stunde müssen wir nur noch ein paar kleine Optimierungen vornehmen. 
+
 ![erster Teil des Labyrinths](https://github.com/Frebecca/Projektblog/blob/master/Labyrinth_1.PNG)
 
 ### <a name="einf"></a> 08.09.2020
 
 Die Grundstruktur des Labyrinths ist jetzt fertiggestellt worden. Die letzten Änderungen wurden vorgenommen und wir haben die Dicke der Außenlinien angepasst. Als nächstes haben wir uns mit der Bewegung der Sprite befasst, um diese zielgesteuert bewegen und durch das Labyrinth steuern zu können. Hierfür programmieren wir die Tastenkombinationen für die einzelnen Bewegungsabläufe.
+
 ![fertige Grundstruktur des Labyrinths](https://github.com/Frebecca/Projektblog/blob/master/Labyrinth.PNG)
 
 ### <a name="einf"></a> 22.09.2020
