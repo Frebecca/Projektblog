@@ -120,8 +120,9 @@ Wir haben schon einige Befehle ausprobiert - jedoch erfolglos. Darunter befanden
 
 ### <a name="einf"></a> 25.09.2020
 Wir konnten in der heutigen Stunde das Barriereproblem lösen können. Hierfür benutzen wir den folgenden Befehl:
+
 ![Befehl für die Barriere der Sprite](https://github.com/Frebecca/Projektblog/blob/master/L%C3%B6sung.PNG)
 
 Das Labyrinth ist nun soweit konzipiert, dass man als Spieler einen Weg durch dieses finden kann. Allerdings müssen wir nun noch das Grundgerüst erweitern, indem wir zum Beispiel ein Ziel einfügen oder andere kleinere Änderungen vornehmen. Wir werten das ganze also noch auf.
 
-![Fertiges Labyrinth](
+![Fertiges Labyrinth](https://github.com/Frebecca/Projektblog/blob/master/Labyrinth%20fertig.PNG)
