@@ -119,3 +119,9 @@ Im Moment sind wir damit beschäftigt, die Bewegung der Sprite so zu programmier
 Wir haben schon einige Befehle ausprobiert - jedoch erfolglos. Darunter befanden sich zum einen der Befehl "Berühre Malspuren", "Berühre Labyrinth" und "Berühre Kante". Auch wenn die Sprite die Farbe des Labyrinths berührt, kann sie sich über diese Linien hinweg bewegen. Dies liegt daran, dass unser Labyrinth auf Grund unserer Programmierung keine einheitliche Färbung besitzt. An einigen Stellen ist es farbintensiver, da die Sprite dort öfter drüber fährt. Somit ist unser Befehl "Falls Farbe x berührt wird" nur an einigen Linien effektiv.
 
 ### <a name="einf"></a> 25.09.2020
+Wir konnten in der heutigen Stunde das Barriereproblem lösen können. Hierfür benutzen wir den folgenden Befehl:
+BILD
+
+Das Labyrinth ist nun soweit konzipiert, dass man als Spieler einen Weg durch dieses finden kann. Allerdings müssen wir nun noch das Grundgerüst erweitern, indem wir zum Beispiel ein Ziel einfügen oder andere kleinere Änderungen vornehmen. Wir werten das ganze also noch auf.
+
+BILD
