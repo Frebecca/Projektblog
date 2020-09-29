@@ -36,7 +36,7 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [25.09.2020](#einf15)
 
-[259.09.2020](#einf16)
+[29.09.2020](#einf16)
 
 ### Vorwort<a name="einf"></a> 
 
@@ -133,3 +133,4 @@ Das Labyrinth ist nun soweit konzipiert, dass man als Spieler einen Weg durch di
 
 ### <a name="einf16"></a> 29.09.2020
 
+Zu Beginn der Stunde haben wir uns mit den Verlinkungen der Daten beschäftigt. Wir haben hinter die Daten bei dem #einf eine fortlaufende Zahl ergänzt und diese auch bei den dazugehörigen Blogeinträgen ergänzt. Nun ist es möglich, auf ein beliebiges Datum zu Beginn des Blogs zu klicken und man wird automatisch zu dem dazujehörigen Blogeintrag verwiesen.
