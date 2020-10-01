@@ -136,6 +136,7 @@ Das Labyrinth ist nun soweit konzipiert, dass man als Spieler einen Weg durch di
 ### <a name="einf16"></a> 29.09.2020
 
 Zu Beginn der Stunde haben wir uns mit den Verlinkungen der Daten beschäftigt. Wir haben hinter die Daten bei dem #einf eine fortlaufende Zahl ergänzt und diese auch bei den dazugehörigen Blogeinträgen ergänzt. Nun ist es möglich, auf ein beliebiges Datum zu Beginn des Blogs zu klicken und man wird automatisch zu dem dazujehörigen Blogeintrag verwiesen.
+
 Des Weiteren haben wir ein Ziel in Form eines roten Kreuzes an dem Zielpunkt des Labnyrinths eingefügt, sodass der Spieler weiß, wo die Spielfigur hingeführt werden muss. Danach haben wir damit angefangen, den Schriftzug, dass wenn der Spieler das makierte Ziel berührt, erscheinen zu lassen.
 
 ### <a name="einf17"></a> 01.10.2020
