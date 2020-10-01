@@ -38,7 +38,7 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [29.09.2020](#einf16)
 
-[01.10.2020] (#einf17)
+[01.10.2020](#einf17)
 
 ### Vorwort<a name="einf"></a> 
 
