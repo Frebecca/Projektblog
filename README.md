@@ -40,6 +40,8 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [01.10.2020](#einf17)
 
+[02.10.2020](#einf18)
+
 ### Vorwort<a name="einf"></a> 
 
 
@@ -144,3 +146,7 @@ Des Weiteren haben wir ein Ziel in Form eines roten Kreuzes an dem Zielpunkt des
 Wir haben heute weiter am den Schriftzug gearbeitet und dieses Kostüm fertiggestellt. Sobald nun also das rote Kreuz (das Ziel) berührt wird, erscheint das Stagekostüm "Complete".
 
 ![Complete Stagekostüm](https://github.com/Frebecca/Projektblog/blob/master/Complete%20Screen.PNG)
+
+### <a name="einf18"></a> 02.10.2020
+
+
