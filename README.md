@@ -141,3 +141,6 @@ Des Weiteren haben wir ein Ziel in Form eines roten Kreuzes an dem Zielpunkt des
 
 ### <a name="einf17"></a> 01.10.2020
 
+Wir haben heute weiter am den Schriftzug gearbeitet und dieses Kostüm fertiggestellt. Sobald nun also das rote Kreuz (das Ziel) berührt wird, erscheint das Stagekostüm "Complete".
+
+![Complete Stagekostüm](https://github.com/Frebecca/Projektblog/blob/master/Complete%20Screen.PNG)
