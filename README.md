@@ -42,6 +42,8 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [02.10.2020](#einf18)
 
+[20.10.2020](#einf19)
+
 ### Vorwort<a name="einf"></a> 
 
 
@@ -149,4 +151,8 @@ Wir haben heute weiter am den Schriftzug gearbeitet und dieses Kostüm fertigges
 
 ### <a name="einf18"></a> 02.10.2020
 
+In der heutigen Stunde haben wir damit angefangen, Barrikaden in das Labyrinth einzufügen. Diese werden durch waagerechte bzw. senkrechte schwarze Balken dargestellt, die sich in einer Ebene bewegen und immer abwechselnd einen Weg des Labyrinths öffnen bzw. schließen. Berührt man eine dieser Barrikaden, so wird man zurück an den Start des Labyrinths gesetuzt und muss von vorne beginnen.
 
+### <a name="einf19"></a> 20.10.2020
+
+Auch in der ersten Stunde nach den Herbstferien programmieren wir weiter an den Barrikaden. Wir fügen sie an verschiedenen Positionen im Labyrinth ein. Uns ist heute bewusst geworden, dass wir die Barrikaden anders programmieren müsen, damit die Sprite nicht sofort an den Start zurück gesetzt wird, sobald sie in die Nähe des Balkens kommt. 
