@@ -44,6 +44,8 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [20.10.2020](#einf19)
 
+[22.10.2020](#einf20)
+
 ### Vorwort<a name="einf"></a> 
 
 
@@ -158,3 +160,7 @@ In der heutigen Stunde haben wir damit angefangen, Barrikaden in das Labyrinth e
 Auch in der ersten Stunde nach den Herbstferien programmieren wir weiter an den Barrikaden. Wir fügen sie an verschiedenen Positionen im Labyrinth ein. Uns ist heute bewusst geworden, dass wir die Barrikaden anders programmieren müsen, damit die Sprite nicht sofort an den Start zurück gesetzt wird, sobald sie in die Nähe des Balkens kommt. 
 
 ![Barrikade](https://github.com/Frebecca/Projektblog/blob/master/Barrikaden%201.PNG)
+
+### <a name="einf20"></a> 22.10.2020
+
+
