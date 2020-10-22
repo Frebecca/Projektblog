@@ -156,3 +156,5 @@ In der heutigen Stunde haben wir damit angefangen, Barrikaden in das Labyrinth e
 ### <a name="einf19"></a> 20.10.2020
 
 Auch in der ersten Stunde nach den Herbstferien programmieren wir weiter an den Barrikaden. Wir fügen sie an verschiedenen Positionen im Labyrinth ein. Uns ist heute bewusst geworden, dass wir die Barrikaden anders programmieren müsen, damit die Sprite nicht sofort an den Start zurück gesetzt wird, sobald sie in die Nähe des Balkens kommt. 
+
+![Barrikade]()
