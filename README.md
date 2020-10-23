@@ -46,6 +46,8 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [22.10.2020](#einf20)
 
+[23.10.2020](#einf21)
+
 ### Vorwort<a name="einf"></a> 
 
 
@@ -163,4 +165,9 @@ Auch in der ersten Stunde nach den Herbstferien programmieren wir weiter an den 
 
 ### <a name="einf20"></a> 22.10.2020
 
+Zum einen wollen wir heute die "Conmplete" Bühne, welche erscheint, wenn man das Labyrinth durchquert bzw. das rote Ziel erreicht hat, bearbeiten, da diese momentan nur in handschriftlicher Form vorliegt. Hierzu haben wir eine Skizze angefertigt, wie die Bühne später aussehen soll. Diese soll nämlich den Labyrinthcharakter weiter aufgreifen und ebenfalls in Form eines Labyrinths geschrieben sein.
 
+
+### <a name="einf21"></a> 23.10.2020
+
+Heute wird die Skizze der "Complete" Bühne programmiert. 
