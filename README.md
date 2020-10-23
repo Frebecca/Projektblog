@@ -169,8 +169,8 @@ Zum einen wollen wir heute die "Conmplete" Bühne, welche erscheint, wenn man da
 
 ![alte "Complete" Bühne](https://github.com/Frebecca/Projektblog/blob/master/Complete%20sign%20alt.PNG)
 
-Des Weiteren ahben wir ein paar extra Features in das Labyrinth eingefügt, um es zu erweitern und noch Aufgaben mit dem erfolgreichen Durchqueren zu verbinden. 
-Hierzu haben wir drei verschiedene Coins programmiert, die nacheinander eingesammelt werden müssen, damit der jeweils nachfolgenden Coin erscheint und letztlich sich die Barrikade öffnet, die bislang den Weg zum Ziel versperrt. 
+Des Weiteren haben wir ein paar extra Features in das Labyrinth eingefügt, um es zu erweitern und noch Aufgaben mit dem erfolgreichen Durchqueren zu verbinden. 
+Hierzu haben wir drei verschiedene Coins programmiert, die nacheinander eingesammelt werden müssen, damit der jeweils nachfolgenden Coin erscheint und sich letztlich die Barrikade öffnet, die bislang den Weg zum Ziel versperrt hat. 
 Der Spieler muss also zunächst den Weg durch das Labyrinth zum grünen Coin finden und diesen einsammeln. Hat er dies geschafft, so verschwindet dieser und der nächste Coin, ein blauer, erscheint an einer anderen Stelle und muss ebenfalls eingesammelt werden, sodass dann der dritte und lilane Coin erscheint. Wird auch dieser erfolgreich eingesammelt, so verschwindet er und die Barrikade, die bislang in einer Position verharrt, öfnnet und schließt sich abwechwechslend nahc dem selben Schema, wie es auch die anderen Barrikaden tun.
 Um das ganze zu programmieren, erscheint der grüne Coin, sobald das Labyrinth gestartet wird.
 
