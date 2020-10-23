@@ -172,15 +172,26 @@ Zum einen wollen wir heute die "Conmplete" Bühne, welche erscheint, wenn man da
 Des Weiteren haben wir ein paar extra Features in das Labyrinth eingefügt, um es zu erweitern und noch Aufgaben mit dem erfolgreichen Durchqueren zu verbinden. 
 Hierzu haben wir drei verschiedene Coins programmiert, die nacheinander eingesammelt werden müssen, damit der jeweils nachfolgenden Coin erscheint und sich letztlich die Barrikade öffnet, die bislang den Weg zum Ziel versperrt hat. 
 Der Spieler muss also zunächst den Weg durch das Labyrinth zum grünen Coin finden und diesen einsammeln. Hat er dies geschafft, so verschwindet dieser und der nächste Coin, ein blauer, erscheint an einer anderen Stelle und muss ebenfalls eingesammelt werden, sodass dann der dritte und lilane Coin erscheint. Wird auch dieser erfolgreich eingesammelt, so verschwindet er und die Barrikade, die bislang in einer Position verharrt, öfnnet und schließt sich abwechwechslend nahc dem selben Schema, wie es auch die anderen Barrikaden tun.
-Um das ganze zu programmieren, erscheint der grüne Coin, sobald das Labyrinth gestartet wird. Berührt der Spieler diesen, erhält der Coin den Befehl, sich zu verstecken und der blaue Coin den Befehl, sich zu zeigen. Berühtrt der Spieler den blauen Coin, so versteckt dieser sich und der lilane Coin zeigt sich. Ähnliches gilt für den lilanen Coin, denn wenn der Spieler diesen berührt, so versteckt sich dieser und die Barrikade erhält den Befehl, sich zu öffnen.
+Um das ganze zu programmieren, erscheint der grüne Coin, sobald das Labyrinth gestartet wird. Berührt der Spieler diesen, erhält der Coin den Befehl bzw. die Nachricht, sich zu verstecken und der blaue Coin den Befehl, sich zu zeigen. Berühtrt der Spieler den blauen Coin, so versteckt dieser sich und der lilane Coin zeigt sich. Ähnliches gilt für den lilanen Coin, denn wenn der Spieler diesen berührt, so versteckt sich dieser und die Barrikade erhält den Befehl, sich zu öffnen.
 
-grün
-Spieler grün
-blau
-Spieler blau
-lila
-Spieler lila
-Barrikade
+Der grüne Coin und der Befehl bei der Berührung durch die Sprite
+
+![grüner Coin](https://github.com/Frebecca/Projektblog/blob/master/gr%C3%BCner%20Coin.PNG)
+![Sprite bei Berührung des grünen Coins](https://github.com/Frebecca/Projektblog/blob/master/Spieler%20-%20gr%C3%BCner%20Coin.PNG)
+
+Der blaue Coin und der Befehl bei der Berührung durch die Sprite
+
+![blauer Coin](https://github.com/Frebecca/Projektblog/blob/master/blauer%20Coin.PNG)
+![Sprite bei Berührung des blauen Coins](https://github.com/Frebecca/Projektblog/blob/master/Spieler%20-%20blauer%20Coin.PNG)
+
+Der lila Coin und der Befehl bei der Berührung durch die Sprite
+
+![lila Coin](https://github.com/Frebecca/Projektblog/blob/master/lilaner%20Coin.PNG)
+![Sprite bei Berührung des blauen Coins](https://github.com/Frebecca/Projektblog/blob/master/Spieler%20-%20lila%20Coin.PNG)
+
+Die Nachricht bzw. der Befehl an die Barrikade, sich zu öffnen
+
+![Nachricht an die Barrikade](https://github.com/Frebecca/Projektblog/blob/master/Befehl%20Barrikade.PNG)
 
 ### <a name="einf21"></a> 23.10.2020
 
