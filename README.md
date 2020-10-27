@@ -199,7 +199,7 @@ Die Nachricht bzw. der Befehl an die Barrikade, sich zu öffnen
 
 Heute wird die Skizze der "Complete" Bühne, die wir bereits fertiggestellt haben, als Bühne programmiert. Hierzu werden die einzelen Buchstaben aneinander gereiht und von der Sprite "geschrieben". Die einzelen Koordinaten werden eingegeben und smoit programmieren wir den Schriftzug nach dem Schema, wie die Wege des Labyrinths. Wenhjn der Schriftzug fertig ist, soll es die Optik eines Labyrinths widerspiegeln.
 
-
+https://github.com/Frebecca/Projektblog/blob/master/neue%20Complete%20Stage%201.PNG
 BILD EINFÜGEN und erklären
 
 
