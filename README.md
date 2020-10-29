@@ -211,7 +211,7 @@ Heute wird die Skizze der "Complete" Bühne, die wir bereits fertiggestellt habe
 
 In der heutigen Stunde haben wir weiterhin an der Complete Bühne gearbeitet und angefangen, einen weiteren Gegenspieler in das Labyrinth zu programmieren.
 
-![aktueller Stand der Complete Bühne]()
+![aktueller Stand der Complete Bühne](https://github.com/Frebecca/Projektblog/blob/master/Complete%20sign%201.PNG)
 
 ### <a name="einf23"></a> 29.10.2020
 
