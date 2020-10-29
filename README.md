@@ -215,10 +215,10 @@ In der heutigen Stunde haben wir weiterhin an der Complete Bühne gearbeitet und
 
 ### <a name="einf23"></a> 29.10.2020
 
-Auch heute programmieren wir die Complete Bühne weiter. Leider wurdeb die bisherigen Programmierungen des Gegenspielers nicht gespeichert, weswegen wir nochmal neu beginnen müssen.
-Der Gegenspieler (Opponent) fähtrt die ganze Zeit, von Spielbeginn an, eine bestimmte Strecke ab. Wenn der Spieler seinen Gegenspielr berührt, so wird er an den Anfang des Labyrinths zurückgesetzt und muss von vorne beginnen.
+Auch heute programmieren wir die Complete Bühne weiter. Leider wurden die bisherigen Programmierungen des Gegenspielers nicht gespeichert, weswegen wir nochmal neu beginnen müssen.
+Der Gegenspieler (Opponent) fährt die ganze Zeit, von Spielbeginn an, eine bestimmte Strecke ab. Wenn der Spieler seinen Gegenspieler berührt, so wird er an den Anfang des Labyrinths zurückgesetzt und muss von vorne beginnen.
 
 ![Befehl an Spieler, wenn er Gegner berührt](https://github.com/Frebecca/Projektblog/blob/master/Opponent%20touches%20Spieler.PNG)
-![Programmierung des Gegenspielers]()
+![Programmierung des Gegenspielers](https://github.com/Frebecca/Projektblog/blob/master/Programmierung%20Opponent.PNG)
 
 ### <a name="einf24"></a> 30.10.2020
