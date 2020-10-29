@@ -50,6 +50,10 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [27.10.2020](#einf22)
 
+[29.10.2020](#einf23)
+
+[30.10.2020](#einf24)
+
 ### Vorwort<a name="einf"></a> 
 
 
@@ -197,7 +201,7 @@ Die Nachricht bzw. der Befehl an die Barrikade, sich zu öffnen
 
 ### <a name="einf21"></a> 23.10.2020
 
-Heute wird die Skizze der "Complete" Bühne, die wir bereits fertiggestellt haben, als Bühne programmiert. Hierzu werden die einzelen Buchstaben aneinander gereiht und von der Sprite "geschrieben". Die einzelen Koordinaten werden eingegeben und smoit programmieren wir den Schriftzug nach dem Schema, wie die Wege des Labyrinths. Wenhjn der Schriftzug fertig ist, soll es die Optik eines Labyrinths widerspiegeln.
+Heute wird die Skizze der "Complete" Bühne, die wir bereits fertiggestellt haben, als Bühne programmiert. Hierzu werden die einzelen Buchstaben aneinander gereiht und von der Sprite "geschrieben". Die einzelen Koordinaten werden eingegeben und somit programmieren wir den Schriftzug nach dem Schema, wie die Wege des Labyrinths. Wenn der Schriftzug fertig ist, soll es die Optik eines Labyrinths widerspiegeln.
 
 ![der erste Teil der neuen Complete Bühne](https://github.com/Frebecca/Projektblog/blob/master/neue%20Complete%20Stage%201.PNG)
 
@@ -205,4 +209,12 @@ Heute wird die Skizze der "Complete" Bühne, die wir bereits fertiggestellt habe
 
 ### <a name="einf22"></a> 27.10.2020
 
+In der heutigen Stunde haben wir weiterhin an der Complete Bühne gearbeitet und angefangen, einen weiteren Gegenspieler in das Labyrinth zu programmieren.
 
+![aktueller Stand der Complete Bühne]()
+
+### <a name="einf23"></a> 29.10.2020
+
+Auch heute programmieren wir die Complete Bühne weiter. Leider wurdeb die bisherigen Programmierungen des Gegenspielers nicht gespeichert, weswegen wir nochmal neu beginnen müssen.
+
+### <a name="einf24"></a> 30.10.2020
