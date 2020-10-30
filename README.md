@@ -64,7 +64,10 @@ TO DO:
 - Kommentare einfügen bzgl. Funktion
 - Kostüm des Ziels bearbeiten
 - Programmierungen, die doppelt sind in einem Befehl zusammenfassen (?)
-- Projektseite (?)
+- Projektseite
+enthält: Verkauf des Produkts -> Features, was man machen kann, warum dieses Programm nutzen
+und Endprodukt vorstellen, nicht den Werdegang
+Bilder einfügen
 
 ### Vorwort<a name="einf"></a> 
 
