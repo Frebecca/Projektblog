@@ -60,6 +60,7 @@ Projektblog von Rebecca Scholz und Frederik Peters
 TO DO:
 - Coins umbennen
 - Complete Bühne
+- Befehle an Coins, etc., sich zu verstecken
 - Kostüm des Gegenspielers
 - Kommentare einfügen bzgl. Funktion
 - Kostüm des Ziels bearbeiten
