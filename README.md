@@ -227,4 +227,4 @@ Der Gegenspieler (Opponent) fährt die ganze Zeit, von Spielbeginn an, eine best
 
 Leider ist gestern beim Speichervorgang der PC abgestürzt, sodass die Fertigstellung der Complete Bühne nicht gespeichert wurde. Aus diesem Grund müssen wir diese Programmierschritte heute erneut vornehmen. Des Weiteren bearbeiten wir das Kostüm des Gegenspielers.
 
-### <a name="einf25></a> 03.11.2020
+### <a name="einf25"></a> 03.11.2020
