@@ -56,6 +56,16 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [03.11.2020](#einf25)
 
+
+TO DO:
+- Coins umbennen
+- Complete Bühne
+- Kostüm des Gegenspielers
+- Kommentare einfügen bzgl. Funktion
+- Kostüm des Ziels bearbeiten
+- Programmierungen, die doppelt sind in einem Befehl zusammenfassen (?)
+- Projektseite (?)
+
 ### Vorwort<a name="einf"></a> 
 
 
