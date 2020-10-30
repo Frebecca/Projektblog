@@ -54,6 +54,8 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [30.10.2020](#einf24)
 
+[03.11.2020](#einf25)
+
 ### Vorwort<a name="einf"></a> 
 
 
@@ -222,3 +224,7 @@ Der Gegenspieler (Opponent) fährt die ganze Zeit, von Spielbeginn an, eine best
 ![Programmierung des Gegenspielers](https://github.com/Frebecca/Projektblog/blob/master/Programmierung%20Opponent.PNG)
 
 ### <a name="einf24"></a> 30.10.2020
+
+Leider ist gestern beim Speichervorgang der PC abgestürzt, sodass die Fertigstellung der Complete Bühne nicht gespeichert wurde. Aus diesem Grund müssen wir diese Programmierschritte heute erneut vornehmen. Des Weiteren bearbeiten wir das Kostüm des Gegenspielers.
+
+### <a name="einf25></a> 03.11.2020
