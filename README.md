@@ -56,12 +56,10 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [03.11.2020](#einf25)
 
+[06.11.2020](#einf26)
+
 
 TO DO:
-- Coins umbennen
-- Complete Bühne
-- Befehle an Coins, etc., sich zu verstecken
-- Kostüm des Gegenspielers
 - Kommentare einfügen bzgl. Funktion
 - Kostüm des Ziels bearbeiten
 - Programmierungen, die doppelt sind in einem Befehl zusammenfassen (?)
@@ -242,3 +240,7 @@ Der Gegenspieler (Opponent) fährt die ganze Zeit, von Spielbeginn an, eine best
 Leider ist gestern beim Speichervorgang der PC abgestürzt, sodass die Fertigstellung der Complete Bühne nicht gespeichert wurde. Aus diesem Grund müssen wir diese Programmierschritte heute erneut vornehmen. Des Weiteren bearbeiten wir das Kostüm des Gegenspielers.
 
 ### <a name="einf25"></a> 03.11.2020
+
+zwei Bilder einfügen( start screen, final complete stage), complete Bühne fertig, Kostüm opponent, hide wenn complete Bühne
+
+### <a name="einf26"></a> 06.11.2020
