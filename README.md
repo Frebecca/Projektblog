@@ -61,7 +61,6 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 TO DO:
 - Kommentare einfügen bzgl. Funktion
-- Kostüm des Ziels bearbeiten
 - Programmierungen, die doppelt sind in einem Befehl zusammenfassen (?)
 - Projektseite
 enthält: Verkauf des Produkts -> Features, was man machen kann, warum dieses Programm nutzen
