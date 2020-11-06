@@ -241,8 +241,13 @@ Leider ist gestern beim Speichervorgang der PC abgestürzt, sodass die Fertigste
 
 ### <a name="einf25"></a> 03.11.2020
 
-zwei Bilder einfügen( start screen, final complete stage), complete Bühne fertig, Kostüm opponent, hide wenn complete Bühne
+Wir haben heute die Complete Bühne fertig gestellt.
 
-https://github.com/Frebecca/Projektblog/blob/master/final%20complete%20stage.PNG
+![Fertige Complete Bühne](https://github.com/Frebecca/Projektblog/blob/master/final%20complete%20stage.PNG)
+
+Des Weiteren haben wir das Kostüm des Gegners gestaltet und für alle Barrikaden, Coins und Spieler programmiert, dass diese sich, sobald die Complete Bühne erscheint, verstecken müssen, sodass nur die Bühne sichtbar ist.
+
+Das Startbild unseres Labyrinths sieht nun mit allen Kostümen und Barrikaden folgendermasßen aus:
+![Start des Labyrinths](https://github.com/Frebecca/Projektblog/blob/master/start%20screen.PNG9)
 
 ### <a name="einf26"></a> 06.11.2020
