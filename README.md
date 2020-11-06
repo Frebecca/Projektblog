@@ -252,3 +252,8 @@ Das Startbild unseres Labyrinths sieht nun mit allen Kostümen und Barrikaden fo
 ![Start des Labyrinths](https://github.com/Frebecca/Projektblog/blob/master/start%20screen.PNG)
 
 ### <a name="einf26"></a> 06.11.2020
+
+Heute haben wir unter anderem das Kostüm des Ziels überarbeitet, es sieht nun folgendermaßen aus:
+
+![Kostüm des Ziels](https://github.com/Frebecca/Projektblog/blob/master/Aim%20Kost%C3%BCm.PNG)
+
