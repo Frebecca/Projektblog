@@ -243,4 +243,6 @@ Leider ist gestern beim Speichervorgang der PC abgestürzt, sodass die Fertigste
 
 zwei Bilder einfügen( start screen, final complete stage), complete Bühne fertig, Kostüm opponent, hide wenn complete Bühne
 
+https://github.com/Frebecca/Projektblog/blob/master/final%20complete%20stage.PNG
+
 ### <a name="einf26"></a> 06.11.2020
