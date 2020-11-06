@@ -249,6 +249,6 @@ Des Weiteren haben wir das Kostüm des Gegners gestaltet und für alle Barrikade
 
 Das Startbild unseres Labyrinths sieht nun mit allen Kostümen und Barrikaden folgendermaßen aus:
 
-![Start des Labyrinths](https://github.com/Frebecca/Projektblog/blob/master/start%20screen.PNG9)
+![Start des Labyrinths](https://github.com/Frebecca/Projektblog/blob/master/start%20screen.PNG)
 
 ### <a name="einf26"></a> 06.11.2020
