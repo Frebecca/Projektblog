@@ -262,4 +262,4 @@ Des Weiteren haben wir mit der Kommentierung der einzelnen Befehle angefangen, u
 Auch heute fügen wir weiter Kommentierungen in unsere Scripte ein.
 Zudem haben wir eine Beschreibung für das Labyrinth erstellt, welches neben dem Projekt auf der Snap! Seite sichtbar ist.
 
-![Beschreibung des Labyrinths]()
+![Beschreibung des Labyrinths](https://github.com/Frebecca/Projektblog/blob/master/description.PNG)
