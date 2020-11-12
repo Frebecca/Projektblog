@@ -61,11 +61,11 @@ Projektblog von Rebecca Scholz und Frederik Peters
 [12.11.2020](#einf27)
 
 TO DO:
-- Programmierungen, die doppelt sind in einem Befehl zusammenfassen (?)
 - Projektseite
 enthält: Verkauf des Produkts -> Features, was man machen kann, warum dieses Programm nutzen
 und Endprodukt vorstellen, nicht den Werdegang
 Bilder einfügen
+- Vorwort
 
 ### Vorwort<a name="einf"></a> 
 
