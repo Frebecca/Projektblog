@@ -58,8 +58,11 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [06.11.2020](#einf26)
 
+[12.11.2020](#einf27)
 
 TO DO:
+- start screen
+- description schreiben
 - Kommentare einfügen bzgl. Funktion
 - Programmierungen, die doppelt sind in einem Befehl zusammenfassen (?)
 - Projektseite
@@ -255,4 +258,9 @@ Das Startbild unseres Labyrinths sieht nun mit allen Kostümen und Barrikaden fo
 Heute haben wir unter anderem das Kostüm des Ziels überarbeitet, es sieht nun folgendermaßen aus:
 
 ![Kostüm des Ziels](https://github.com/Frebecca/Projektblog/blob/master/Aim%20Kost%C3%BCm.PNG)
+Des Weiteren haben wir mit der Kommentierung der einzelnen Befehle angefangen, um die Programmierung übersichtlicher und verständlicher zu machen.
+
+### <a name="einf27"></a> 12.11.2020
+
+Auch heute fügen wir weiter Kommentierungen in unsere Scripte ein.
 
