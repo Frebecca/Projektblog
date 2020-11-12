@@ -61,9 +61,6 @@ Projektblog von Rebecca Scholz und Frederik Peters
 [12.11.2020](#einf27)
 
 TO DO:
-- start screen
-- description schreiben
-- Kommentare einfügen bzgl. Funktion
 - Programmierungen, die doppelt sind in einem Befehl zusammenfassen (?)
 - Projektseite
 enthält: Verkauf des Produkts -> Features, was man machen kann, warum dieses Programm nutzen
@@ -263,4 +260,6 @@ Des Weiteren haben wir mit der Kommentierung der einzelnen Befehle angefangen, u
 ### <a name="einf27"></a> 12.11.2020
 
 Auch heute fügen wir weiter Kommentierungen in unsere Scripte ein.
+Zudem haben wir eine Beschreibung für das Labyrinth erstellt, welches neben dem Projekt auf der Snap! Seite sichtbar ist.
 
+![Beschreibung des Labyrinths]()
