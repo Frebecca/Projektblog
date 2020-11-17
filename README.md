@@ -195,7 +195,7 @@ Zum einen wollen wir heute die "Complete" Bühne, welche erscheint, wenn man das
 
 Des Weiteren haben wir ein paar extra Features in das Labyrinth eingefügt, um es zu erweitern und noch Aufgaben mit dem erfolgreichen Durchqueren zu verbinden. 
 Hierzu haben wir drei verschiedene Coins programmiert, die nacheinander eingesammelt werden müssen, damit der jeweils nachfolgenden Coin erscheint und sich letztlich die Barrikade öffnet, die bislang den Weg zum Ziel versperrt hat. 
-Der Spieler muss also zunächst den Weg durch das Labyrinth zum grünen Coin finden und diesen einsammeln. Hat er dies geschafft, so verschwindet dieser und der nächste Coin, ein blauer, erscheint an einer anderen Stelle und muss ebenfalls eingesammelt werden, sodass dann der dritte und lilane Coin erscheint. Wird auch dieser erfolgreich eingesammelt, so verschwindet er und die Barrikade, die bislang in einer Position verharrt, öfnnet und schließt sich abwechwechslend nach dem selben Schema, wie es auch die anderen Barrikaden tun.
+Der Spieler muss also zunächst den Weg durch das Labyrinth zum grünen Coin finden und diesen einsammeln. Hat er dies geschafft, so verschwindet dieser und der nächste Coin, ein blauer, erscheint an einer anderen Stelle und muss ebenfalls eingesammelt werden, sodass dann der dritte und lilane Coin erscheint. Wird auch dieser erfolgreich eingesammelt, so verschwindet er und die Barrikade, die bislang in einer Position verharrt und den Weg zum Ziel blockiert, öfnnet und schließt sich abwechwechslend nach dem selben Schema, wie es auch die anderen Barrikaden tun.
 Um das ganze zu programmieren, erscheint der grüne Coin, sobald das Labyrinth gestartet wird. Berührt der Spieler diesen, erhält der Coin den Befehl bzw. die Nachricht, sich zu verstecken und der blaue Coin den Befehl, sich zu zeigen. Berührt der Spieler den blauen Coin, so versteckt dieser sich und der lilane Coin zeigt sich. Ähnliches gilt für den lilanen Coin, denn wenn der Spieler diesen berührt, so versteckt sich dieser und die Barrikade erhält den Befehl, sich zu öffnen.
 
 Der grüne Coin und der Befehl bei der Berührung durch die Sprite
@@ -219,7 +219,7 @@ Die Nachricht bzw. der Befehl an die Barrikade, sich zu öffnen
 
 ### <a name="einf21"></a> 23.10.2020
 
-Heute wird die Skizze der "Complete" Bühne, die wir bereits fertiggestellt haben, als Bühne programmiert. Hierzu werden die einzelen Buchstaben aneinander gereiht und von der Sprite "geschrieben". Die einzelen Koordinaten werden eingegeben und somit programmieren wir den Schriftzug nach dem Schema, wie die Wege des Labyrinths. Wenn der Schriftzug fertig ist, soll es die Optik eines Labyrinths widerspiegeln.
+Heute wird die Skizze der "Complete" Bühne, die wir bereits fertiggestellt haben, als Bühne programmiert. Hierzu werden die einzelnen Buchstaben aneinander gereiht und von der Sprite "geschrieben". Wir geben die einzelen Koordinaten ein und somit programmieren wir den Schriftzug nach dem Schema, wie die Wege des Labyrinths. Der fertiggstellte Schriftzug, soll die Optik eines Labyrinths widerspiegeln.
 
 ![der erste Teil der neuen Complete Bühne](https://github.com/Frebecca/Projektblog/blob/master/neue%20Complete%20Stage%201.PNG)
 
@@ -268,3 +268,7 @@ Auch heute fügen wir weiter Kommentierungen in unsere Scripte ein.
 Zudem haben wir eine Beschreibung für das Labyrinth erstellt, welches neben dem Projekt auf der Snap! Seite sichtbar ist.
 
 ![Beschreibung des Labyrinths](https://github.com/Frebecca/Projektblog/blob/master/description.PNG)
+
+### <a name="einf28"></a> 17.11.2020
+
+In der heutigen Stunde haben wir zunächst unseren Projektblog auf mögliche Fehler überprüft. Des Weiteren haben wir uns überlegt, was wir noch alles bis zur Abgabefrist machen müssen.
