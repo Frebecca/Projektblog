@@ -66,6 +66,8 @@ enthält: Verkauf des Produkts -> Features, was man machen kann, warum dieses Pr
 und Endprodukt vorstellen, nicht den Werdegang
 Bilder einfügen
 - Vorwort
+- Name Github ändern
+- Name für Projekt
 
 ### Vorwort<a name="einf"></a> 
 
