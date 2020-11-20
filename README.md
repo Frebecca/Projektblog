@@ -1,4 +1,4 @@
-# Projektblog
+# Projektblog zu "Maze Race"
 
 Projektblog von Rebecca Scholz und Frederik Peters
 
@@ -71,7 +71,6 @@ und Endprodukt vorstellen, nicht den Werdegang
 Bilder einfügen
 - Vorwort
 - Name Github ändern
-- Name für Projekt
 
 ### <a name="einf1"></a> 13.08.2020
 
