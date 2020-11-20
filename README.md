@@ -273,3 +273,5 @@ Zudem haben wir eine Beschreibung für das Labyrinth erstellt, welches neben dem
 In der heutigen Stunde haben wir zunächst unseren Projektblog auf mögliche Fehler überprüft. Des Weiteren haben wir uns überlegt, was wir noch alles bis zur Abgabefrist machen müssen.
 
 ### <a name="einf29"></a> 20.11.2020
+
+Heute haben wir uns einen Namen für unser Spiel überlegt, wir nennen es "Maze Race". Des Weiteren fangen wir an, die Projektseite unseres Projekts zu schreiben.
