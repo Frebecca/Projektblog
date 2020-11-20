@@ -4,7 +4,6 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
  Inhaltsverzeichnis
  
-[Vorwort](#einf)
 
 [13.08.2020](#einf1)
 
@@ -73,10 +72,6 @@ Bilder einfügen
 - Vorwort
 - Name Github ändern
 - Name für Projekt
-
-### Vorwort<a name="einf"></a> 
-
-
 
 ### <a name="einf1"></a> 13.08.2020
 
