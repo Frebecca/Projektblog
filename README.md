@@ -60,6 +60,11 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [12.11.2020](#einf27)
 
+[17.11.2020](#einf28)
+
+[20.11.2020](#einf29)
+
+
 TO DO:
 - Projektseite
 enthält: Verkauf des Produkts -> Features, was man machen kann, warum dieses Programm nutzen
@@ -272,3 +277,5 @@ Zudem haben wir eine Beschreibung für das Labyrinth erstellt, welches neben dem
 ### <a name="einf28"></a> 17.11.2020
 
 In der heutigen Stunde haben wir zunächst unseren Projektblog auf mögliche Fehler überprüft. Des Weiteren haben wir uns überlegt, was wir noch alles bis zur Abgabefrist machen müssen.
+
+### <a name="einf29"></a> 20.11.2020
