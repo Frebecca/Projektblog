@@ -63,13 +63,16 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [20.11.2020](#einf29)
 
+[24.11.2020](#einf30)
+
+[26.11.2020](#einf31)
+
 
 TO DO:
 - Projektseite
 enthält: Verkauf des Produkts -> Features, was man machen kann, warum dieses Programm nutzen
 und Endprodukt vorstellen, nicht den Werdegang
 Bilder einfügen
-- Vorwort
 - Name Github ändern
 
 ### <a name="einf1"></a> 13.08.2020
@@ -275,3 +278,9 @@ In der heutigen Stunde haben wir zunächst unseren Projektblog auf mögliche Feh
 ### <a name="einf29"></a> 20.11.2020
 
 Heute haben wir uns einen Namen für unser Spiel überlegt, wir nennen es "Maze Race". Des Weiteren fangen wir an, die Projektseite unseres Projekts zu schreiben.
+
+### <a name="einf30"></a> 24.11.2020
+
+Wir haben heute unser Vorwort auf der Projektseite verfasst und werden nun mit der Beschreibung des Spiels anfangen.
+
+### <a name="einf31"></a> 26.11.2020
