@@ -65,7 +65,9 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [24.11.2020](#einf30)
 
-[26.11.2020](#einf31)
+[27.11.2020](#einf31)
+
+[01.12.2020](#einf32)
 
 
 TO DO:
@@ -283,4 +285,8 @@ Heute haben wir uns einen Namen für unser Spiel überlegt, wir nennen es "Maze 
 
 Wir haben heute unser Vorwort auf der Projektseite verfasst und werden nun mit der Beschreibung des Spiels anfangen.
 
-### <a name="einf31"></a> 26.11.2020
+### <a name="einf31"></a> 27.11.2020
+
+Heute schreiben wir an unserer Projektseite weiter und legen den Fokus auf die Beschreibung und die Erläuterungen.
+
+### <a name="einf32"></a> 01.12.2020
