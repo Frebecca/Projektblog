@@ -69,6 +69,7 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [01.12.2020](#einf32)
 
+[03.12.2020](#einf33)
 
 TO DO:
 - Projektseite
@@ -291,3 +292,7 @@ Wir haben heute unser Vorwort auf der Projektseite verfasst und werden nun mit d
 Heute schreiben wir an unserer Projektseite weiter und legen den Fokus auf die Beschreibung und die Erläuterungen.
 
 ### <a name="einf32"></a> 01.12.2020
+
+In der vorletzten Stunde vor der Abgabe des Projekts schreiben wir unsere Projektseite weiter und fügen dort Verlinkungen ein.
+
+### <a name="einf33"></a> 03.12.2020
