@@ -72,11 +72,7 @@ Projektblog von Rebecca Scholz und Frederik Peters
 [03.12.2020](#einf33)
 
 TO DO:
-- Projektseite
-enthält: Verkauf des Produkts -> Features, was man machen kann, warum dieses Programm nutzen
-und Endprodukt vorstellen, nicht den Werdegang
-Bilder einfügen
-- Projekt verkaufen -> Vorwort !!!
+- Projektseite: Herausforderungen, Schlusswort
 - Name Github ändern
 
 ### <a name="einf1"></a> 13.08.2020
