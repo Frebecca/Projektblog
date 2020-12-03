@@ -2,7 +2,7 @@
 
 Projektblog von Rebecca Scholz und Frederik Peters
 
- Inhaltsverzeichnis
+## Inhaltsverzeichnis
  
 
 [13.08.2020](#einf1)
@@ -70,6 +70,8 @@ Projektblog von Rebecca Scholz und Frederik Peters
 [01.12.2020](#einf32)
 
 [03.12.2020](#einf33)
+
+## Beginn des Projektblogs
 
 
 ### <a name="einf1"></a> 13.08.2020
