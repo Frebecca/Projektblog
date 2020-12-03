@@ -290,7 +290,12 @@ Heute schreiben wir an unserer Projektseite weiter und legen den Fokus auf die B
 
 In der vorletzten Stunde vor der Abgabe des Projekts schreiben wir unsere Projektseite weiter und fügen dort Verlinkungen ein.
 
+Beispiel einer Verlinkung:
+Programmierung bei dem Element, auf das Bezug genommen wird
+
 ![Programmierung bei dem Bezug](https://github.com/Frecca/Projektblog/blob/master/V%2001.PNG)
+
+Programmierung bei dem Wort, das verlinkt wird
 
 ![Programmierung bei dem Wort](https://github.com/Frecca/Projektblog/blob/master/V%201.PNG)
 
