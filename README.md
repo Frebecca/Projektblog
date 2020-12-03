@@ -290,6 +290,10 @@ Heute schreiben wir an unserer Projektseite weiter und legen den Fokus auf die B
 
 In der vorletzten Stunde vor der Abgabe des Projekts schreiben wir unsere Projektseite weiter und fügen dort Verlinkungen ein.
 
+![Programmierung bei dem Bezug](https://github.com/Frecca/Projektblog/blob/master/V%2001.PNG)
+
+![Programmierung bei dem Wort]()
+
 ### <a name="einf33"></a> 03.12.2020
 
 Nachdem wir uns in der letzten Stunde damit beschäftigt haben, wie man bei einzelnen Wörtern Verlinkungen einfügt und die Erläuterungen fertiggestellt haben, schreiben wir heute über unsere Herausforderungen und unser Schlusswort.
