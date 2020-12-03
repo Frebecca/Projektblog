@@ -71,8 +71,6 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [03.12.2020](#einf33)
 
-TO DO:
-- Projektseite: Herausforderungen, Schlusswort
 
 ### <a name="einf1"></a> 13.08.2020
 
