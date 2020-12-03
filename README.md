@@ -292,7 +292,7 @@ In der vorletzten Stunde vor der Abgabe des Projekts schreiben wir unsere Projek
 
 ![Programmierung bei dem Bezug](https://github.com/Frecca/Projektblog/blob/master/V%2001.PNG)
 
-![Programmierung bei dem Wort]()
+![Programmierung bei dem Wort](https://github.com/Frecca/Projektblog/blob/master/V%201.PNG)
 
 ### <a name="einf33"></a> 03.12.2020
 
