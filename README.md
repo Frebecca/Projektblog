@@ -73,7 +73,6 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 TO DO:
 - Projektseite: Herausforderungen, Schlusswort
-- Name Github ändern
 
 ### <a name="einf1"></a> 13.08.2020
 
