@@ -71,6 +71,8 @@ Projektblog von Rebecca Scholz und Frederik Peters
 
 [03.12.2020](#einf33)
 
+[04.12.2020](#einf34)
+
 ## Beginn des Projektblogs
 
 
@@ -303,3 +305,7 @@ Programmierung bei dem Wort, das verlinkt wird
 ### <a name="einf33"></a> 03.12.2020
 
 Nachdem wir uns in der letzten Stunde damit beschäftigt haben, wie man bei einzelnen Wörtern Verlinkungen einfügt und die Erläuterungen fertiggestellt haben, schreiben wir heute über unsere Herausforderungen und unser Schlusswort.
+
+### <a name="einf34"></a> 04.12.2020
+
+Da wir heute unser Projekt abgeben müssen, schauen wir noch einmal kurz, ob alles auf Github stimmig ist und neben gegebenfalls noch kleine Änderungen vor.
